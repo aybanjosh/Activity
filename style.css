@@ -1,0 +1,64 @@
+body{
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#background{
+	position: relative;
+}
+img{
+	width: 100%;
+	height: 534px;
+}
+#content{
+	top: 50px;
+	left: 60px;
+	position: absolute;
+	background-color: white;
+	width: 1130px;
+	height: 450px;
+}
+#parag1{
+	position: absolute;
+	top: 10px;
+	left: 50px;
+}
+#parag1 h1{
+	color: red;
+	font-size: 40px;
+}
+#parag2{
+	position: absolute;
+	top: 210px;
+	left: 50px;
+}
+#parag2 h1{
+	color: orange;
+	font-size: 40px;
+}
+#parag3{
+	position: absolute;
+	top: 10px;
+	left: 350px;
+}
+#parag3 h1{
+	color: green;
+	font-size: 40px;
+}
+#parag4{
+	position: absolute;
+	top: 210px;
+	left: 350px;
+}
+#parag4 h1{
+	color: gray;
+	font-size: 40px;
+}
+#chef{
+	position: absolute;
+	float: right;
+	right: 40px;
+}
+#chef img{
+	width: 450px;
+	height: 450px;
+}
